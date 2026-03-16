@@ -1,0 +1,16 @@
+python-engineio~=4.11.2
+pywebview~=5.2
+Flask~=3.0.3
+Flask-SocketIO~=5.3.7
+flask-cors~=6.0.0
+dnspython
+eventlet
+numpy~=2.2.3
+python-dotenv
+
+torch
+torchvision
+av
+fvcore
+dnspython
+pythonnet
